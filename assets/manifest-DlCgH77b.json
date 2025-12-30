@@ -2,7 +2,7 @@
 {
   "name": "Shauryah Gunners Visitor Book",
   "short_name": "Shauryah Book",
-  "start_url": "/",
+  "start_url": "./",
   "display": "fullscreen",
   "background_color": "#fcfbf9",
   "theme_color": "#0f172a",
